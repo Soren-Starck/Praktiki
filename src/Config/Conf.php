@@ -24,7 +24,7 @@ class Conf
         'login' => 'francoisn',
         // A l'IUT, c'est le même mdp que PhpMyAdmin
         // Sur votre machine personelle, vous avez creez ce mdp a l'installation
-        'password' => 'rairflashi7tiounklex'
+        'password' => 'motdepasse'
     );
 
     static public function getLogin(): string
